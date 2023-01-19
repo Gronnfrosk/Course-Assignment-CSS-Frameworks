@@ -6,13 +6,12 @@ A simple overview of the use/purpose of the project.
 
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
+This is a project mainly focusing on using HTML, bootstrap and SASS creating a 3 pages website.
 
-You can add some bullet points if you'd like to:
-
-- List item 1
-- List item 2
-- List item 3
+The architecture of website:
+1. Home page
+2. Profile page
+3. Login page
 
 ## Built With
 
@@ -59,9 +58,7 @@ This is where you can leave your social links for people to contact you, such as
 
 [My LinkedIn page](www.linkedin.com)
 
-## License
 
-You can link to your license file here if you're using one, or mention what license the codebase falls under. If you're unsure then you can simply delete this section.
 
 ## Acknowledgments
 
