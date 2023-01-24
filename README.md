@@ -1,5 +1,7 @@
 # Course Assignment: CSS Frameworks
 
+Goal: To apply knowledge of Bootstrap and SASS to build a responsive front end for a social media application.
+
 ## Description
 
 This is a project mainly focusing on using HTML, bootstrap and SASS creating a 3 pages website.
